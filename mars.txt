@@ -1,1 +1,2 @@
 Write some text.
+Second line.
